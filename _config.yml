@@ -22,7 +22,7 @@ title: RFX' Personal Blog
 description: >-
   Random Posts about random topics, maybe even with useful information.
 baseurl: "/"
-url: "https://rfx01.github.io"
+url: "https://rfx.space"
 github_username:  rfx01
 discord_username: rfx01
 
@@ -31,6 +31,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
 
 author:
   name: RFX
